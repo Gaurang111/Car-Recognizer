@@ -8,3 +8,14 @@ Overview:
 
 Link to the Dataset:
 https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
+
+
+I've tried to used Transfer learning with :
+VGG16, InceptionV3, EfficientNetB0, and MobileNetV2
+
+Out of all the above models, MobileNetV2 gave descent accuarcy (60% test accuracy).
+due to slow processor and limited GPU usage time in Colab, I've trained models without tuning and experimentation.
+But, One could use different model or use fine-tuning to get better accuracy.
+
+
