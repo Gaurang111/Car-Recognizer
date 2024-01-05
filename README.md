@@ -1,3 +1,7 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Gaurang111/Car-Recognizer/blob/main/Cars_Recignation.ipynb)
+
+<img src="image.png" width=800>
+
 # Stanford Cars Dataset
 
 Welcome to the Stanford Cars Dataset project! This dataset comprises 16,185 images spanning 196 classes of cars. The dataset is carefully split into 8,144 training images and 8,041 testing images, ensuring a balanced distribution across each class. Classes are defined at the level of Make, Model, and Year, offering a detailed categorization such as "2012 Tesla Model S" or "2012 BMW M3 coupe."
